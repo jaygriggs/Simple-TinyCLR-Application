@@ -1,0 +1,11 @@
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\obj\Debug\TinyCLRApplication5.csproj.CoreCompileInputs.cache
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\bin\Debug\TinyCLRApplication5.exe
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\bin\Debug\TinyCLRApplication5.pdb
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\bin\Debug\GHIElectronics.TinyCLR.Devices.dll
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\bin\Debug\GHIElectronics.TinyCLR.Drawing.dll
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\bin\Debug\GHIElectronics.TinyCLR.Storage.dll
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\bin\Debug\mscorlib.dll
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\obj\Debug\TinyCLRApplication5.exe
+c:\users\jayberet\source\repos\TinyCLRApplication5\TinyCLRApplication5\obj\Debug\TinyCLRApplication5.pdb
+C:\Users\JayBeret\source\repos\TinyCLRApplication5\TinyCLRApplication5\obj\Debug\TinyCLRApplication5.csprojResolveAssemblyReference.cache
